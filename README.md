@@ -74,9 +74,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandan0621&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-</div>
+
 
 <br/>
 
@@ -124,11 +122,4 @@
 
 <br/>
 
-<h2 align="center">🐍 Continuous Growth</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
-  </picture>
-</div>
+
