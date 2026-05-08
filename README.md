@@ -1,6 +1,7 @@
 **Chandan Kumar** <br>
-AI Enthusiast | Content Writer | Translator | Tech Blogger <br><br>
-I have a deep passion for Artificial Intelligence, blogging, and modern technology. My journey revolves around exploring AI tools, crafting engaging content, and diving deep into the world of blogging and translation. <br>
+AI Developer | SEO Content Writer <br>
+Automation • Hindi & English • Web Projects <br><br>
+Hi there! 👋 I'm Chandan. I am passionate about blending Artificial Intelligence with web development to build smart and efficient projects. Along with coding, I specialize in SEO content writing and automation, crafting high-quality digital experiences in both Hindi and English. <br><br>
 **Frontend** : HTML5, CSS3, JavaScript <br>
 **Programming** : Python <br>
 **Tools** : Git, GitHub, Canva, WordPress <br>
