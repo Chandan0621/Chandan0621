@@ -1,6 +1,3 @@
-**Chandan Kumar** <br>
-AI Developer | SEO Content Writer <br>
-Automation • Hindi & English • Web Projects <br><br>
 Hi there! 👋 I'm Chandan. I am passionate about blending Artificial Intelligence with web development to build smart and efficient projects. Along with coding, I specialize in SEO content writing and automation, crafting high-quality digital experiences in both Hindi and English. <br><br>
 **Frontend** : HTML5, CSS3, JavaScript <br>
 **Programming** : Python <br>
