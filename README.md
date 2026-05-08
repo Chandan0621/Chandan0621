@@ -107,9 +107,18 @@
       <a href="https://github.com/Chandan0621/fixmate">View Source Code</a>
     </td>
     <td width="50%" align="center">
+      <b>📱 Earnify App</b><br/>
+      Social content and earning platform for Indian creators.<br/>
+      <a href="https://github.com/Chandan0621/earnify">View Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <b>💰 CPA Reward Page</b><br/>
       High-converting CPA reward landing page with live counters.<br/>
       <a href="https://github.com/Chandan0621/cpa-reward-page">View Source Code</a>
+    </td>
+    <td width="50%" align="center">
     </td>
   </tr>
 </table>
