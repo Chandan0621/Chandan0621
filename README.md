@@ -1,158 +1,154 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117:3b82f6&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Chandan%20Kumar%20|%20AI%20Enthusiast%20&%20Tech%20Blogger&descAlignY=55&descSize=20" width="100%" alt="Header" />
+</div>
 
-<!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+SEO+Specialist;AI-Powered+Content+%26+Web+Solutions;Building+Digital+Products+Since+2021" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+Enthusiast+%26+Tech+Blogger;Content+Writer+%26+Translator;Building+the+Future+with+AI;Passionate+about+WordPress+%26+Automation" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandan0621&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge&logo=github" alt="Profile Views" />
+</div>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=Chandan0621&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/chandan-kumarwork"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://chandan0621.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+---
+
+## 👨‍💻 **About Me**
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="55%">
+      Greetings! I'm <b>Chandan Kumar</b> from Bihar, India. <br/><br/>
+      I have a deep passion for <b>Artificial Intelligence</b> and modern technology. My journey revolves around exploring AI tools, crafting engaging content, and diving deep into the world of blogging and translation. <br/><br/>
+      I am constantly learning modern tools and aiming to achieve high-impact goals in the IT and AI industry. Welcome to my creative and technical hub!
+    </td>
+    <td align="left" width="45%">
+      <pre lang="json">
+{
+  "name": "Chandan Kumar",
+  "location": "Bihar, India 🇮🇳",
+  "roles": [
+    "AI Enthusiast",
+    "Content Writer",
+    "Translator",
+    "Tech Blogger"
+  ],
+  "interests": [
+    "AI Tools",
+    "Blogging",
+    "Automation"
+  ]
+}
+      </pre>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  <a href="https://github.com/Chandan0621"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/chandan-kumarwork"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="mailto:chandan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+<div align="center">
+
+### **Frontend & Programming**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### **AI Tools & Automation**
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
+
+### **Workspace & Platforms**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 **GitHub Analytics**
 
-```yaml
-name: Chandan Kumar
-location: India 🇮🇳
-current_role: Freelance Full Stack Developer & SEO Content Strategist
-experience: 4+ Years in Web Development & Digital Marketing
-education: Self-taught Developer | Continuous Learner
-languages: [Hindi, English]
-motto: "Build fast. Ship clean. Rank higher."
-```
-
-- 🔭 Currently working on **AI-integrated web applications** & **high-converting landing pages**
-- 🌱 Exploring **Next.js**, **TypeScript**, and **AI/ML integrations**
-- 💼 Available for **freelance projects** — web development, SEO content, & technical writing
-- ⚡ Fun fact: I've built **15+ production-ready projects** and written **500+ SEO-optimized articles**
-- 🎯 2026 Goal: Contribute to **open-source** projects & build SaaS products
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandan0621&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=A3B3BC&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan0621&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan0621&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=A3B3BC&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan0621&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=3B82F6&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🐍 **Contribution Animation**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🚀 **Featured Projects**
 
 <div align="center">
 
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
-
-### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,python,git,github,vscode,figma,wordpress&theme=dark" alt="Backend & Tools" />
-
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify&theme=dark" alt="Database & Cloud" />
+| 🌌 **Project Name** | 📝 **Description** | 🛠️ **Domain** |
+|:---|:---|:---:|
+| [**AI Blog Website**](https://github.com/Chandan0621) | A premium futuristic platform dedicated to AI education and tutorials. | `Content` `AI` |
+| [**AI News Platform**](https://github.com/Chandan0621) | A real-time hub for the latest updates in the world of Artificial Intelligence. | `News` `AI` |
+| [**Translation Portfolio**](https://github.com/Chandan0621) | Professional showcase of English-Hindi translation and localization services. | `Translation` |
+| [**Article Writing Portfolio**](https://github.com/Chandan0621) | High-converting, SEO-optimized content writing samples and blogs. | `Writing` `SEO` |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 **Achievements & Highlights**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandan0621&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+---
+
+## 💡 **Developer Quote**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandan0621&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan0621&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan0621&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+> *"The true power of Artificial Intelligence lies in its ability to empower human creativity and automation. Build smart, dream big, and automate the rest."*
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
-
-| 🎯 Project | 📝 Description | 🛠️ Tech | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **Freelancer Portfolio** | Professional portfolio with dark/light theme, smooth animations & Fiverr integration | `HTML` `CSS` `JS` | [Live ↗](https://chandan0621.github.io) |
-| **Tiger Fitness Patna** | Gym website with WhatsApp integration, testimonials & membership plans | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621) |
-| **Healthora Landing** | Health affiliate landing page with SEO optimization & trust signals | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621/healthora-health) |
-| **CPA Reward Page** | High-converting CPA landing with live counters & mobile-first design | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621) |
-| **TaskMitra** | Task management platform for Indian users with Hindi support | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621/TaskMitra) |
-| **Earnify** | Social content & earning platform designed for Indian creators | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621) |
-| **FixMate** | Home services booking app with service categories & booking flow | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621) |
-| **Nexora Fashion** | Minimalist affiliate fashion landing page with styling tips | `HTML` `CSS` `JS` | [Repo ↗](https://github.com/Chandan0621) |
-
-</div>
-
----
-
-## 💼 Professional Services
-
-<div align="center">
-
-| 🎨 Service | 📋 Details | 💰 Starting At |
-|:---:|:---|:---:|
-| **🌐 Web Development** | Responsive websites, landing pages, portfolios & web apps | **$50** |
-| **✍️ SEO Content Writing** | Blog posts, articles in Hindi & English with keyword optimization | **$20** |
-| **🔄 Hindi-English Translation** | Professional translation for websites, apps & documents | **$15** |
-| **📱 Landing Page Design** | High-converting CPA/affiliate pages with mobile-first approach | **$40** |
-| **🤖 AI Content Strategy** | ChatGPT-powered content workflows & automation setup | **$30** |
-
-</div>
-
-> 💬 **Want to work together?** Reach out via [LinkedIn](https://www.linkedin.com/in/chandan-kumarwork) or check my [Portfolio](https://chandan0621.github.io)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan0621&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chandan0621&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/chandan-kumarwork"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://x.com/chandan0621997"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-&nbsp;
-<a href="https://chandan0621.github.io"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-&nbsp;
-<a href="https://jankariverse.wordpress.com"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117:3b82f6&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+  <br/>
+  <b>Designed with ❤️ by Chandan Kumar</b>
 </div>
