@@ -13,4 +13,27 @@ Hi there! 👋 I'm Chandan. I am passionate about blending Artificial Intelligen
 **📊 GitHub Stats:** <br>
 ![](https://github-readme-stats.vercel.app/api?username=Chandan0621&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandan0621&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan0621&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan0621&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
+**🏆 GitHub Trophies:** <br>
+![](https://github-profile-trophy.vercel.app/?username=Chandan0621&theme=darkhub&no-frame=true&no-bg=true&margin-w=15) <br><br>
+**🚀 Featured Projects:** <br>
+| 🌟 Project | 📝 Description | 🔗 Link |
+| :--- | :--- | :--- |
+| **Freelancer Portfolio** | A premium, conversion-focused portfolio website for freelance services. | [View Project](https://github.com/Chandan0621) |
+| **AI News Platform** | A modern, dark-themed platform dedicated to Artificial Intelligence updates. | [View Project](https://github.com/Chandan0621) |
+| **Tiger Fitness** | High-converting local gym website with WhatsApp integration. | [View Project](https://github.com/Chandan0621) |
+| **Nexora Fashion** | Minimalist fashion landing page designed for affiliate conversions. | [View Project](https://github.com/Chandan0621) |
+
+<br>
+
+**📰 Latest Blog Posts:** <br>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
+
+**🐍 Contribution Graph:** <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Chandan0621/Chandan0621/output/github-snake-dark.svg" />
+</picture>
