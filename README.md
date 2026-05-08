@@ -9,9 +9,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:chandan@example.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chandan-kumarwork"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hire_Me_on_Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://chandan0621.github.io/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 <br/>
