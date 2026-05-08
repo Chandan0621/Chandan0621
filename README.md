@@ -90,26 +90,26 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>🌌 AI News Platform</b><br/>
-      Dark-themed platform dedicated to Artificial Intelligence updates.<br/>
-      <a href="https://github.com/Chandan0621">View Project</a>
-    </td>
-    <td width="50%" align="center">
       <b>🚀 Freelancer Portfolio</b><br/>
       Premium, conversion-focused portfolio for freelance services.<br/>
-      <a href="https://github.com/Chandan0621">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>🐅 Tiger Fitness</b><br/>
-      High-converting local gym website with WhatsApp integration.<br/>
-      <a href="https://github.com/Chandan0621">View Project</a>
+      <a href="https://chandan0621.github.io/">View Live Website</a>
     </td>
     <td width="50%" align="center">
       <b>👗 Nexora Fashion</b><br/>
       Minimalist fashion landing page designed for affiliate conversions.<br/>
-      <a href="https://github.com/Chandan0621">View Project</a>
+      <a href="https://github.com/Chandan0621/nexora-fashion">View Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>🛠️ Fixmate App</b><br/>
+      Home services booking application with service categories.<br/>
+      <a href="https://github.com/Chandan0621/fixmate">View Source Code</a>
+    </td>
+    <td width="50%" align="center">
+      <b>💰 CPA Reward Page</b><br/>
+      High-converting CPA reward landing page with live counters.<br/>
+      <a href="https://github.com/Chandan0621/cpa-reward-page">View Source Code</a>
     </td>
   </tr>
 </table>
